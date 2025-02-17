@@ -1,0 +1,13 @@
+{
+  "name": "@job-platform/prettier-config",
+  "version": "0.0.1",
+  "private": true,
+  "main": "index.js",
+  "type": "module",
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "prettier": "^3.2.5"
+  }
+}
